@@ -1,11 +1,7 @@
-pom.xml
-pom.xml.asc
-*jar
-/lib/
-/classes/
 /target/
-/checkouts/
 .lein-deps-sum
 .lein-repl-history
 .lein-plugins/
 .lein-failures
+figwheel-server.log
+/resources/public/js/
